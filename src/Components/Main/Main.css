@@ -1,0 +1,14 @@
+.main{
+    background-image: url("../../Assets/star-wars-background.jpg");
+    background-position: center;
+    background-size: contain;
+    padding-bottom: 25px;
+}
+
+.loadingColor{
+    color: white;
+    height: CALC(100vh - 145px);
+    text-align: center;
+    padding-top: 50px;
+    margin-top: 0;
+}

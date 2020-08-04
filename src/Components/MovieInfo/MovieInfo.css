@@ -1,0 +1,28 @@
+.movieInfo{
+    color: gold;
+    flex-basis: 75%;
+    display: flex;
+    flex-direction: column;
+}
+
+.movieTitle{
+    color: white;
+    line-height: 30px;
+}
+
+.movieFont{
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.category{
+    color: Gainsboro;
+    display: inline-block;
+    padding-right: 5px;
+}
+
+@media only screen and (min-width: 900px) {
+    .category {
+      width: 145px;
+    }
+}

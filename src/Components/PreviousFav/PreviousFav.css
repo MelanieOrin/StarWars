@@ -1,0 +1,14 @@
+.previous{
+    font-size: 18px;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 10px;
+}
+
+.hide{
+    visibility: hidden;
+}
+
+.blue{
+    color: blue;
+}
